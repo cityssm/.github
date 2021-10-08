@@ -1,1 +1,1 @@
-![Sault Ste. Marie on GitHub](header.png)
+![Sault Ste. Marie on GitHub](https://cityssm.github.io/.github/profile/header.png)

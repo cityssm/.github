@@ -5,7 +5,7 @@
 ## Mentions
 
 - 🏆 [Recognized by the United Nations Development Programme](https://www.undp.org/publications/open-design-how-open-source-can-drive-sustainable-urban-development) for "prioritizing the needs of the city through in-house developments".
-- Included in the European Commission's [Open Source Software Country Intelligence Report](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence).
+- ➕ Included in the European Commission's [Open Source Software Country Intelligence Report](https://joinup.ec.europa.eu/collection/open-source-observatory-osor/open-source-software-country-intelligence).
 - ⭐ [Highlighted by the Sault Star for reaching over 100 stars](https://www.saultstar.com/news/local-news/city-it-department-hits-milestone-with-municipal-github-rankings) across all publically shared GitHub repositories.
 
 ## Staff Application Links
